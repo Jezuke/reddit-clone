@@ -1,2 +1,2 @@
 # reddit-clone
-Reddit Clone Tutorial
+Reddit Clone Tutorial by @shadmerhi. Original code [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVE4NGFVQmVDV1kzOVhXVVh6My0tY19NOUFHd3xBQ3Jtc0tsdHpMbk5KN2VLM1NFczROTzMzWlhVa3hQSnk4clNmLWIxZTBFcEdxVlpQUEJFSWdndTV6VmhXYTBzQnRkeFMycnV5MkItR0ttU2VYY1lDMzQ1LTlZMnc0Z2lyakV4UjdCWEZOVmVTeHhrZG00WGw5MA&q=https%3A%2F%2Fgithub.com%2Fshadeemerhi%2Freddit-clone-yt&v=rCm5RVYKWVg).
